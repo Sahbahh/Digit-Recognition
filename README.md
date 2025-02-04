@@ -27,6 +27,7 @@ Digits:
 ![HandWritten](screenshots/HandWritten.png)
 
 Results:
+
 ![HandWrittenResult](screenshots/HandWrittenResults.png)
 
 
