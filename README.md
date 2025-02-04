@@ -17,15 +17,16 @@ The system was trained using Mini-batch Stochastic Gradient Descent (SGD) and te
 
 ## Results
 Test accuracy: 95.6%. 
+
 Real-world handwritten digit recognition: 80% accuracy on self-written digits.
 
 
 ## Example output:
-Example Outputs
-1. Confusion Matrix
+Handwritten Digit Recognition Results
+Digits:
+![HandWritten](relative/screenshot/HandWritten.png)
+
+Results:
+![HandWrittenResult](relative/screenshot/HandWrittenResult.png)
 
 
-2. Handwritten Digit Recognition Results
-
-
-3. Feature Map Visualizations
