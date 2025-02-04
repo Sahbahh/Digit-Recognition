@@ -24,9 +24,9 @@ Real-world handwritten digit recognition: 80% accuracy on self-written digits.
 ## Example output:
 Handwritten Digit Recognition Results
 Digits:
-![HandWritten](relative/screenshots/HandWritten.png)
+![HandWritten](screenshots/HandWritten.png)
 
 Results:
-![HandWrittenResult](relative/screenshots/HandWrittenResult.png)
+![HandWrittenResult](screenshots/HandWrittenResult.png)
 
 
