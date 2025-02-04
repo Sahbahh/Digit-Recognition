@@ -26,7 +26,7 @@ Handwritten Digit Recognition Results
 Digits:
 ![HandWritten](screenshots/HandWritten.png)
 
-Results:
+Results (80% accuracy): 
 
 ![HandWrittenResult](screenshots/HandWrittenResults.png)
 
